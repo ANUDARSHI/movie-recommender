@@ -8,7 +8,7 @@
 
 ![Frontend](https://img.shields.io/badge/Frontend-HTML/CSS/JS-B7E5DD)
 
-![API](https://img.shields.io/badge/API-TMDB-FF6FB5)
+![API](https://img.shields.io/badge/API-TMDB-7D1E6A)
 
 [![PyPI version shields.io](https://img.shields.io/pypi/v/trains-jupyter-plugin.svg)](https://img.shields.io/pypi/v/trains-jupyter-plugin.svg)
 

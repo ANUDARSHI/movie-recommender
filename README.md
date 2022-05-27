@@ -2,11 +2,13 @@
 # Movie Recommendation System
   ## Frameworks and languages used 
 
-![Python](https://img.shields.io/badge/Python-3.8-blueviolet)
+![Python](https://img.shields.io/badge/Python-3.8-FFD59E)
 
-![Framework](https://img.shields.io/badge/Framework-Flask-blue)
+![Framework](https://img.shields.io/badge/Framework-Flask-646FD4)
 
-![Frontend](https://img.shields.io/badge/Frontend-HTML/CSS/JS-pink)
+![Frontend](https://img.shields.io/badge/Frontend-HTML/CSS/JS-B7E5DD)
+
+![API](https://img.shields.io/badge/API-TMDB-FF6FB5)
 
 [![PyPI version shields.io](https://img.shields.io/pypi/v/trains-jupyter-plugin.svg)](https://img.shields.io/pypi/v/trains-jupyter-plugin.svg)
 

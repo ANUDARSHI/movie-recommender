@@ -34,6 +34,9 @@ In this website type or choose a movie name from the list of movies and it will 
 4. Open your terminal/command prompt from your project directory and run the file `main.py` by executing the command `python main.py`.
 5. Go to your browser and type `http://127.0.0.1:5000/` in the address bar.
 
+## Demo of my Project
+
+The demo of project can be found by following this link https://youtu.be/Por5HG5A3hU
 ## Screenshots of My project
 
 ### Home Page of My website to search for Movies

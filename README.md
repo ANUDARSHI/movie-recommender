@@ -30,7 +30,7 @@ In this website type or choose a movie name from the list of movies and it will 
 ## How to use
 
 1. Clone this repository to your local machine.
-2. Install all the libraries mentioned in the [requirements.txt](https://github.com/kishan0725/Movie-Recommendation-System-with-Sentiment-Analysis/blob/master/requirements.txt) file with the command `pip install -r requirements.txt`
+2. Install all the libraries mentioned in the [requirements.txt](https://github.com/ANUDARSHI/movie-recommender/blob/main/requirements.txt) file with the command `pip install -r requirements.txt`
 4. Open your terminal/command prompt from your project directory and run the file `main.py` by executing the command `python main.py`.
 5. Go to your browser and type `http://127.0.0.1:5000/` in the address bar.
 
